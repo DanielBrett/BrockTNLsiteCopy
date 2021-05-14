@@ -15,6 +15,19 @@
                 href="https://brocktnl.github.io/citation-chasing/ownership/"
                 />
   </url><url>
+    <loc>https://brocktnl.github.io/evaluating-sources/learning-objective/</loc>
+    <lastmod>2020-01-05T10:42:26+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://brocktnl.github.io/fr/evaluating-sources/learning-objective/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://brocktnl.github.io/evaluating-sources/learning-objective/"
+                />
+  </url><url>
     <loc>https://brocktnl.github.io/peer-review/linux/</loc>
     <lastmod>2020-01-05T10:42:26+06:00</lastmod>
     <xhtml:link
@@ -39,19 +52,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://brocktnl.github.io/what-are-databases/linux/"
-                />
-  </url><url>
-    <loc>https://brocktnl.github.io/evaluating-sources/requirments/</loc>
-    <lastmod>2020-01-05T10:42:26+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://brocktnl.github.io/fr/evaluating-sources/requirments/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://brocktnl.github.io/evaluating-sources/requirments/"
                 />
   </url><url>
     <loc>https://brocktnl.github.io/search-terms/requirments/</loc>
@@ -91,19 +91,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://brocktnl.github.io/omni/activity/"
-                />
-  </url><url>
-    <loc>https://brocktnl.github.io/evaluating-sources/install/</loc>
-    <lastmod>2020-01-05T10:42:26+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://brocktnl.github.io/fr/evaluating-sources/install/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://brocktnl.github.io/evaluating-sources/install/"
                 />
   </url><url>
     <loc>https://brocktnl.github.io/search-terms/install/</loc>
@@ -158,17 +145,30 @@
                 href="https://brocktnl.github.io/citation-chasing/manage/"
                 />
   </url><url>
-    <loc>https://brocktnl.github.io/evaluating-sources/configuration/</loc>
+    <loc>https://brocktnl.github.io/evaluating-sources/video/</loc>
     <lastmod>2020-01-05T10:42:26+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://brocktnl.github.io/fr/evaluating-sources/configuration/"
+                href="https://brocktnl.github.io/fr/evaluating-sources/video/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://brocktnl.github.io/evaluating-sources/configuration/"
+                href="https://brocktnl.github.io/evaluating-sources/video/"
+                />
+  </url><url>
+    <loc>https://brocktnl.github.io/evaluating-sources/activity/</loc>
+    <lastmod>2020-01-05T10:42:26+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://brocktnl.github.io/fr/evaluating-sources/activity/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://brocktnl.github.io/evaluating-sources/activity/"
                 />
   </url><url>
     <loc>https://brocktnl.github.io/search-terms/configuration/</loc>
@@ -223,19 +223,6 @@
                 href="https://brocktnl.github.io/what-are-databases/routing/"
                 />
   </url><url>
-    <loc>https://brocktnl.github.io/evaluating-sources/customization/</loc>
-    <lastmod>2020-01-05T10:42:26+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://brocktnl.github.io/fr/evaluating-sources/customization/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://brocktnl.github.io/evaluating-sources/customization/"
-                />
-  </url><url>
     <loc>https://brocktnl.github.io/search-terms/customization/</loc>
     <lastmod>2020-01-05T10:42:26+06:00</lastmod>
     <xhtml:link
@@ -247,6 +234,19 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://brocktnl.github.io/search-terms/customization/"
+                />
+  </url><url>
+    <loc>https://brocktnl.github.io/evaluating-sources/feedback/</loc>
+    <lastmod>2020-01-05T10:42:26+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://brocktnl.github.io/fr/evaluating-sources/feedback/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://brocktnl.github.io/evaluating-sources/feedback/"
                 />
   </url><url>
     <loc>https://brocktnl.github.io/citation-chasing/payment/</loc>
@@ -286,19 +286,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://brocktnl.github.io/what-are-databases/ubuntu/"
-                />
-  </url><url>
-    <loc>https://brocktnl.github.io/evaluating-sources/elements/</loc>
-    <lastmod>2020-01-05T10:42:26+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://brocktnl.github.io/fr/evaluating-sources/elements/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://brocktnl.github.io/evaluating-sources/elements/"
                 />
   </url><url>
     <loc>https://brocktnl.github.io/search-terms/elements/</loc>
@@ -370,7 +357,7 @@
                 />
   </url><url>
     <loc>https://brocktnl.github.io/evaluating-sources/</loc>
-    <lastmod>2018-12-29T11:02:05+06:00</lastmod>
+    <lastmod>2021-05-14T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
