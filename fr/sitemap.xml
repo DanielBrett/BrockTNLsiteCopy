@@ -2,43 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://brocktnl.github.io/fr/citation-chasing/ownership/</loc>
+    <loc>https://brocktnl.github.io/fr/citation-chasing/learning-objective/</loc>
     <lastmod>2020-01-05T10:42:26+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://brocktnl.github.io/citation-chasing/ownership/"
+                href="https://brocktnl.github.io/citation-chasing/learning-objective/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://brocktnl.github.io/fr/citation-chasing/ownership/"
-                />
-  </url><url>
-    <loc>https://brocktnl.github.io/fr/peer-review/linux/</loc>
-    <lastmod>2020-01-05T10:42:26+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://brocktnl.github.io/peer-review/linux/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://brocktnl.github.io/fr/peer-review/linux/"
-                />
-  </url><url>
-    <loc>https://brocktnl.github.io/fr/what-are-databases/linux/</loc>
-    <lastmod>2020-01-05T10:42:26+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://brocktnl.github.io/what-are-databases/linux/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://brocktnl.github.io/fr/what-are-databases/linux/"
+                href="https://brocktnl.github.io/fr/citation-chasing/learning-objective/"
                 />
   </url><url>
     <loc>https://brocktnl.github.io/fr/evaluating-sources/learning-objective/</loc>
@@ -54,17 +28,82 @@
                 href="https://brocktnl.github.io/fr/evaluating-sources/learning-objective/"
                 />
   </url><url>
-    <loc>https://brocktnl.github.io/fr/search-terms/requirments/</loc>
+    <loc>https://brocktnl.github.io/fr/omni/learning-objective/</loc>
     <lastmod>2020-01-05T10:42:26+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://brocktnl.github.io/search-terms/requirments/"
+                href="https://brocktnl.github.io/omni/learning-objective/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://brocktnl.github.io/fr/search-terms/requirments/"
+                href="https://brocktnl.github.io/fr/omni/learning-objective/"
+                />
+  </url><url>
+    <loc>https://brocktnl.github.io/fr/peer-review/learning-objective/</loc>
+    <lastmod>2020-01-05T10:42:26+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://brocktnl.github.io/peer-review/learning-objective/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://brocktnl.github.io/fr/peer-review/learning-objective/"
+                />
+  </url><url>
+    <loc>https://brocktnl.github.io/fr/search-terms/learning-objective/</loc>
+    <lastmod>2020-01-05T10:42:26+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://brocktnl.github.io/search-terms/learning-objective/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://brocktnl.github.io/fr/search-terms/learning-objective/"
+                />
+  </url><url>
+    <loc>https://brocktnl.github.io/fr/what-are-databases/learning-objective/</loc>
+    <lastmod>2020-01-05T10:42:26+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://brocktnl.github.io/what-are-databases/learning-objective/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://brocktnl.github.io/fr/what-are-databases/learning-objective/"
+                />
+  </url><url>
+    <loc>https://brocktnl.github.io/fr/citation-chasing/export/</loc>
+    <lastmod>2020-01-05T10:42:26+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://brocktnl.github.io/citation-chasing/export/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://brocktnl.github.io/fr/citation-chasing/export/"
+                />
+  </url><url>
+    <loc>https://brocktnl.github.io/fr/citation-chasing/video/</loc>
+    <lastmod>2020-01-05T10:42:26+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://brocktnl.github.io/citation-chasing/video/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://brocktnl.github.io/fr/citation-chasing/video/"
                 />
   </url><url>
     <loc>https://brocktnl.github.io/fr/evaluating-sources/export/</loc>
@@ -93,56 +132,69 @@
                 href="https://brocktnl.github.io/fr/evaluating-sources/video/"
                 />
   </url><url>
-    <loc>https://brocktnl.github.io/fr/search-terms/install/</loc>
+    <loc>https://brocktnl.github.io/fr/omni/export/</loc>
     <lastmod>2020-01-05T10:42:26+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://brocktnl.github.io/search-terms/install/"
+                href="https://brocktnl.github.io/omni/export/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://brocktnl.github.io/fr/search-terms/install/"
+                href="https://brocktnl.github.io/fr/omni/export/"
                 />
   </url><url>
-    <loc>https://brocktnl.github.io/fr/peer-review/mac/</loc>
+    <loc>https://brocktnl.github.io/fr/peer-review/export/</loc>
     <lastmod>2020-01-05T10:42:26+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://brocktnl.github.io/peer-review/mac/"
+                href="https://brocktnl.github.io/peer-review/export/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://brocktnl.github.io/fr/peer-review/mac/"
+                href="https://brocktnl.github.io/fr/peer-review/export/"
                 />
   </url><url>
-    <loc>https://brocktnl.github.io/fr/what-are-databases/mac/</loc>
+    <loc>https://brocktnl.github.io/fr/search-terms/export/</loc>
     <lastmod>2020-01-05T10:42:26+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://brocktnl.github.io/what-are-databases/mac/"
+                href="https://brocktnl.github.io/search-terms/export/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://brocktnl.github.io/fr/what-are-databases/mac/"
+                href="https://brocktnl.github.io/fr/search-terms/export/"
                 />
   </url><url>
-    <loc>https://brocktnl.github.io/fr/citation-chasing/manage/</loc>
+    <loc>https://brocktnl.github.io/fr/what-are-databases/export/</loc>
     <lastmod>2020-01-05T10:42:26+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://brocktnl.github.io/citation-chasing/manage/"
+                href="https://brocktnl.github.io/what-are-databases/export/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://brocktnl.github.io/fr/citation-chasing/manage/"
+                href="https://brocktnl.github.io/fr/what-are-databases/export/"
+                />
+  </url><url>
+    <loc>https://brocktnl.github.io/fr/citation-chasing/activity/</loc>
+    <lastmod>2020-01-05T10:42:26+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://brocktnl.github.io/citation-chasing/activity/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://brocktnl.github.io/fr/citation-chasing/activity/"
                 />
   </url><url>
     <loc>https://brocktnl.github.io/fr/evaluating-sources/activity/</loc>
@@ -156,45 +208,6 @@
                 rel="alternate"
                 hreflang="fr"
                 href="https://brocktnl.github.io/fr/evaluating-sources/activity/"
-                />
-  </url><url>
-    <loc>https://brocktnl.github.io/fr/search-terms/configuration/</loc>
-    <lastmod>2020-01-05T10:42:26+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://brocktnl.github.io/search-terms/configuration/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://brocktnl.github.io/fr/search-terms/configuration/"
-                />
-  </url><url>
-    <loc>https://brocktnl.github.io/fr/search-terms/elements/</loc>
-    <lastmod>2020-01-05T10:42:26+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://brocktnl.github.io/search-terms/elements/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://brocktnl.github.io/fr/search-terms/elements/"
-                />
-  </url><url>
-    <loc>https://brocktnl.github.io/fr/citation-chasing/bill/</loc>
-    <lastmod>2020-01-05T10:42:26+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://brocktnl.github.io/citation-chasing/bill/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://brocktnl.github.io/fr/citation-chasing/bill/"
                 />
   </url><url>
     <loc>https://brocktnl.github.io/fr/omni/activity/</loc>
@@ -223,30 +236,95 @@
                 href="https://brocktnl.github.io/fr/omni/video/"
                 />
   </url><url>
-    <loc>https://brocktnl.github.io/fr/peer-review/routing/</loc>
+    <loc>https://brocktnl.github.io/fr/peer-review/activity/</loc>
     <lastmod>2020-01-05T10:42:26+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://brocktnl.github.io/peer-review/routing/"
+                href="https://brocktnl.github.io/peer-review/activity/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://brocktnl.github.io/fr/peer-review/routing/"
+                href="https://brocktnl.github.io/fr/peer-review/activity/"
                 />
   </url><url>
-    <loc>https://brocktnl.github.io/fr/what-are-databases/routing/</loc>
+    <loc>https://brocktnl.github.io/fr/peer-review/video/</loc>
     <lastmod>2020-01-05T10:42:26+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://brocktnl.github.io/what-are-databases/routing/"
+                href="https://brocktnl.github.io/peer-review/video/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://brocktnl.github.io/fr/what-are-databases/routing/"
+                href="https://brocktnl.github.io/fr/peer-review/video/"
+                />
+  </url><url>
+    <loc>https://brocktnl.github.io/fr/search-terms/activity/</loc>
+    <lastmod>2020-01-05T10:42:26+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://brocktnl.github.io/search-terms/activity/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://brocktnl.github.io/fr/search-terms/activity/"
+                />
+  </url><url>
+    <loc>https://brocktnl.github.io/fr/search-terms/video/</loc>
+    <lastmod>2020-01-05T10:42:26+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://brocktnl.github.io/search-terms/video/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://brocktnl.github.io/fr/search-terms/video/"
+                />
+  </url><url>
+    <loc>https://brocktnl.github.io/fr/what-are-databases/activity/</loc>
+    <lastmod>2020-01-05T10:42:26+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://brocktnl.github.io/what-are-databases/activity/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://brocktnl.github.io/fr/what-are-databases/activity/"
+                />
+  </url><url>
+    <loc>https://brocktnl.github.io/fr/what-are-databases/video/</loc>
+    <lastmod>2020-01-05T10:42:26+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://brocktnl.github.io/what-are-databases/video/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://brocktnl.github.io/fr/what-are-databases/video/"
+                />
+  </url><url>
+    <loc>https://brocktnl.github.io/fr/citation-chasing/feedback/</loc>
+    <lastmod>2020-01-05T10:42:26+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://brocktnl.github.io/citation-chasing/feedback/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://brocktnl.github.io/fr/citation-chasing/feedback/"
                 />
   </url><url>
     <loc>https://brocktnl.github.io/fr/evaluating-sources/feedback/</loc>
@@ -262,95 +340,56 @@
                 href="https://brocktnl.github.io/fr/evaluating-sources/feedback/"
                 />
   </url><url>
-    <loc>https://brocktnl.github.io/fr/search-terms/customization/</loc>
+    <loc>https://brocktnl.github.io/fr/omni/feedback/</loc>
     <lastmod>2020-01-05T10:42:26+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://brocktnl.github.io/search-terms/customization/"
+                href="https://brocktnl.github.io/omni/feedback/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://brocktnl.github.io/fr/search-terms/customization/"
+                href="https://brocktnl.github.io/fr/omni/feedback/"
                 />
   </url><url>
-    <loc>https://brocktnl.github.io/fr/citation-chasing/payment/</loc>
+    <loc>https://brocktnl.github.io/fr/peer-review/feedback/</loc>
     <lastmod>2020-01-05T10:42:26+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://brocktnl.github.io/citation-chasing/payment/"
+                href="https://brocktnl.github.io/peer-review/feedback/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://brocktnl.github.io/fr/citation-chasing/payment/"
+                href="https://brocktnl.github.io/fr/peer-review/feedback/"
                 />
   </url><url>
-    <loc>https://brocktnl.github.io/fr/peer-review/ubuntu/</loc>
+    <loc>https://brocktnl.github.io/fr/search-terms/feedback/</loc>
     <lastmod>2020-01-05T10:42:26+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://brocktnl.github.io/peer-review/ubuntu/"
+                href="https://brocktnl.github.io/search-terms/feedback/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://brocktnl.github.io/fr/peer-review/ubuntu/"
+                href="https://brocktnl.github.io/fr/search-terms/feedback/"
                 />
   </url><url>
-    <loc>https://brocktnl.github.io/fr/what-are-databases/ubuntu/</loc>
+    <loc>https://brocktnl.github.io/fr/what-are-databases/feedback/</loc>
     <lastmod>2020-01-05T10:42:26+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://brocktnl.github.io/what-are-databases/ubuntu/"
+                href="https://brocktnl.github.io/what-are-databases/feedback/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://brocktnl.github.io/fr/what-are-databases/ubuntu/"
-                />
-  </url><url>
-    <loc>https://brocktnl.github.io/fr/citation-chasing/profile/</loc>
-    <lastmod>2020-01-05T10:42:26+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://brocktnl.github.io/citation-chasing/profile/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://brocktnl.github.io/fr/citation-chasing/profile/"
-                />
-  </url><url>
-    <loc>https://brocktnl.github.io/fr/peer-review/windows/</loc>
-    <lastmod>2020-01-05T10:42:26+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://brocktnl.github.io/peer-review/windows/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://brocktnl.github.io/fr/peer-review/windows/"
-                />
-  </url><url>
-    <loc>https://brocktnl.github.io/fr/what-are-databases/windows/</loc>
-    <lastmod>2020-01-05T10:42:26+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://brocktnl.github.io/what-are-databases/windows/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://brocktnl.github.io/fr/what-are-databases/windows/"
+                href="https://brocktnl.github.io/fr/what-are-databases/feedback/"
                 />
   </url><url>
     <loc>https://brocktnl.github.io/fr/</loc>
