@@ -2,6 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://brocktnl.github.io/evaluating-sources/start/</loc>
+    <lastmod>2020-01-05T10:42:26+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://brocktnl.github.io/fr/evaluating-sources/start/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://brocktnl.github.io/evaluating-sources/start/"
+                />
+  </url><url>
     <loc>https://brocktnl.github.io/citation-chasing/learning-objective/</loc>
     <lastmod>2020-01-05T10:42:26+06:00</lastmod>
     <xhtml:link
@@ -327,19 +340,6 @@
                 href="https://brocktnl.github.io/citation-chasing/export/"
                 />
   </url><url>
-    <loc>https://brocktnl.github.io/evaluating-sources/export/</loc>
-    <lastmod>2021-05-17T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://brocktnl.github.io/fr/evaluating-sources/export/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://brocktnl.github.io/evaluating-sources/export/"
-                />
-  </url><url>
     <loc>https://brocktnl.github.io/omni/export/</loc>
     <lastmod>2021-05-17T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -390,6 +390,19 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://brocktnl.github.io/what-are-databases/export/"
+                />
+  </url><url>
+    <loc>https://brocktnl.github.io/evaluating-sources/export/</loc>
+    <lastmod>2021-05-17T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://brocktnl.github.io/fr/evaluating-sources/export/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://brocktnl.github.io/evaluating-sources/export/"
                 />
   </url><url>
     <loc>https://brocktnl.github.io/</loc>
