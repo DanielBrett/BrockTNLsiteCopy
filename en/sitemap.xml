@@ -2,6 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://brocktnl.github.io/scholarly-sources/learning-objective/</loc>
+    <lastmod>2021-06-24T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://brocktnl.github.io/fr/scholarly-sources/learning-objective/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://brocktnl.github.io/scholarly-sources/learning-objective/"
+                />
+  </url><url>
     <loc>https://brocktnl.github.io/evaluating-sources/start/</loc>
     <lastmod>2020-01-05T10:42:26+06:00</lastmod>
     <xhtml:link
@@ -13,6 +26,19 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://brocktnl.github.io/evaluating-sources/start/"
+                />
+  </url><url>
+    <loc>https://brocktnl.github.io/scholarly-sources/start/</loc>
+    <lastmod>2020-01-05T10:42:26+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://brocktnl.github.io/fr/scholarly-sources/start/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://brocktnl.github.io/scholarly-sources/start/"
                 />
   </url><url>
     <loc>https://brocktnl.github.io/citation-chasing/learning-objective/</loc>
@@ -145,6 +171,19 @@
                 href="https://brocktnl.github.io/what-are-databases/video/"
                 />
   </url><url>
+    <loc>https://brocktnl.github.io/scholarly-sources/video/</loc>
+    <lastmod>2021-06-24T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://brocktnl.github.io/fr/scholarly-sources/video/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://brocktnl.github.io/scholarly-sources/video/"
+                />
+  </url><url>
     <loc>https://brocktnl.github.io/omni/activity/</loc>
     <lastmod>2020-01-05T10:42:26+06:00</lastmod>
     <xhtml:link
@@ -249,6 +288,19 @@
                 href="https://brocktnl.github.io/evaluating-sources/activity/"
                 />
   </url><url>
+    <loc>https://brocktnl.github.io/scholarly-sources/activity/</loc>
+    <lastmod>2020-01-05T10:42:26+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://brocktnl.github.io/fr/scholarly-sources/activity/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://brocktnl.github.io/scholarly-sources/activity/"
+                />
+  </url><url>
     <loc>https://brocktnl.github.io/citation-chasing/feedback/</loc>
     <lastmod>2020-01-05T10:42:26+06:00</lastmod>
     <xhtml:link
@@ -299,6 +351,19 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://brocktnl.github.io/peer-review/feedback/"
+                />
+  </url><url>
+    <loc>https://brocktnl.github.io/scholarly-sources/feedback/</loc>
+    <lastmod>2020-01-05T10:42:26+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://brocktnl.github.io/fr/scholarly-sources/feedback/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://brocktnl.github.io/scholarly-sources/feedback/"
                 />
   </url><url>
     <loc>https://brocktnl.github.io/search-terms/feedback/</loc>
@@ -405,8 +470,21 @@
                 href="https://brocktnl.github.io/evaluating-sources/export/"
                 />
   </url><url>
-    <loc>https://brocktnl.github.io/</loc>
+    <loc>https://brocktnl.github.io/scholarly-sources/export/</loc>
     <lastmod>2021-05-17T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://brocktnl.github.io/fr/scholarly-sources/export/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://brocktnl.github.io/scholarly-sources/export/"
+                />
+  </url><url>
+    <loc>https://brocktnl.github.io/</loc>
+    <lastmod>2021-06-24T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -416,6 +494,19 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://brocktnl.github.io/"
+                />
+  </url><url>
+    <loc>https://brocktnl.github.io/scholarly-sources/</loc>
+    <lastmod>2021-06-24T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://brocktnl.github.io/fr/scholarly-sources/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://brocktnl.github.io/scholarly-sources/"
                 />
   </url><url>
     <loc>https://brocktnl.github.io/lessons/</loc>
