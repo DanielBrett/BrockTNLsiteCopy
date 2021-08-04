@@ -80,6 +80,32 @@
                 href="https://brocktnl.github.io/fr/peer-review/start/"
                 />
   </url><url>
+    <loc>https://brocktnl.github.io/fr/primary-secondary/learning-objective/</loc>
+    <lastmod>2020-01-05T10:42:26+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://brocktnl.github.io/primary-secondary/learning-objective/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://brocktnl.github.io/fr/primary-secondary/learning-objective/"
+                />
+  </url><url>
+    <loc>https://brocktnl.github.io/fr/primary-secondary/start/</loc>
+    <lastmod>2020-01-05T10:42:26+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://brocktnl.github.io/primary-secondary/start/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://brocktnl.github.io/fr/primary-secondary/start/"
+                />
+  </url><url>
     <loc>https://brocktnl.github.io/fr/scholarly-sources/learning-objective/</loc>
     <lastmod>2020-01-05T10:42:26+06:00</lastmod>
     <xhtml:link
@@ -182,6 +208,19 @@
                 rel="alternate"
                 hreflang="fr"
                 href="https://brocktnl.github.io/fr/peer-review/export/"
+                />
+  </url><url>
+    <loc>https://brocktnl.github.io/fr/primary-secondary/export/</loc>
+    <lastmod>2020-01-05T10:42:26+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://brocktnl.github.io/primary-secondary/export/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://brocktnl.github.io/fr/primary-secondary/export/"
                 />
   </url><url>
     <loc>https://brocktnl.github.io/fr/scholarly-sources/export/</loc>
@@ -340,6 +379,32 @@
                 href="https://brocktnl.github.io/fr/peer-review/video/"
                 />
   </url><url>
+    <loc>https://brocktnl.github.io/fr/primary-secondary/activity/</loc>
+    <lastmod>2020-01-05T10:42:26+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://brocktnl.github.io/primary-secondary/activity/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://brocktnl.github.io/fr/primary-secondary/activity/"
+                />
+  </url><url>
+    <loc>https://brocktnl.github.io/fr/primary-secondary/video/</loc>
+    <lastmod>2020-01-05T10:42:26+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://brocktnl.github.io/primary-secondary/video/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://brocktnl.github.io/fr/primary-secondary/video/"
+                />
+  </url><url>
     <loc>https://brocktnl.github.io/fr/search-terms/activity/</loc>
     <lastmod>2020-01-05T10:42:26+06:00</lastmod>
     <xhtml:link
@@ -405,6 +470,19 @@
                 href="https://brocktnl.github.io/fr/peer-review/feedback/"
                 />
   </url><url>
+    <loc>https://brocktnl.github.io/fr/primary-secondary/feedback/</loc>
+    <lastmod>2020-01-05T10:42:26+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://brocktnl.github.io/primary-secondary/feedback/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://brocktnl.github.io/fr/primary-secondary/feedback/"
+                />
+  </url><url>
     <loc>https://brocktnl.github.io/fr/scholarly-sources/feedback/</loc>
     <lastmod>2020-01-05T10:42:26+06:00</lastmod>
     <xhtml:link
@@ -468,6 +546,19 @@
                 rel="alternate"
                 hreflang="fr"
                 href="https://brocktnl.github.io/fr/library-reseach-fundamentals/"
+                />
+  </url><url>
+    <loc>https://brocktnl.github.io/fr/primary-secondary/</loc>
+    <lastmod>2018-12-29T11:02:05+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://brocktnl.github.io/primary-secondary/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://brocktnl.github.io/fr/primary-secondary/"
                 />
   </url><url>
     <loc>https://brocktnl.github.io/fr/scholarly-sources/</loc>
@@ -572,30 +663,6 @@
                 href="https://brocktnl.github.io/fr/faq/"
                 />
   </url><url>
-    <loc>https://brocktnl.github.io/fr/principles/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://brocktnl.github.io/principles/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://brocktnl.github.io/fr/principles/"
-                />
-  </url><url>
-    <loc>https://brocktnl.github.io/fr/team/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://brocktnl.github.io/team/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://brocktnl.github.io/fr/team/"
-                />
-  </url><url>
     <loc>https://brocktnl.github.io/fr/tags/</loc>
     <xhtml:link
                 rel="alternate"
@@ -606,18 +673,6 @@
                 rel="alternate"
                 hreflang="fr"
                 href="https://brocktnl.github.io/fr/tags/"
-                />
-  </url><url>
-    <loc>https://brocktnl.github.io/fr/contact/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://brocktnl.github.io/contact/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://brocktnl.github.io/fr/contact/"
                 />
   </url>
 </urlset>
