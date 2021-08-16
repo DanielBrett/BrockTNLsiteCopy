@@ -4,7 +4,7 @@
   <meta charset="utf-8">
   <title>Installation</title>
   <meta name="viewport" content="width=device-width, initial-scale=1"/>
-  <meta name="generator" content="Hugo 0.83.1" />
+  <meta name="generator" content="Hugo 0.87.0" />
   <meta name="description" content="Installation - Brock Library Digital Learning ">
   
   <!-- ** CSS Plugins Needed for the Project ** -->
@@ -75,20 +75,33 @@ if (!doNotTrack) {
 
 
 
+  <meta property="og:image" content="https://brocktnl.github.io/images/brock-library-logo.png" />
+  
+    
+    
+      <meta name="twitter:image" content="https://brocktnl.github.io/images/brock-library-logo.png"/>
+      <meta name="twitter:card" content="summary_large_image">
+    
+    <meta property="og:image:width" content="916">
+    <meta property="og:image:height" content="724">
+    
+  
+  <meta property="og:image:type" content="image/png">
+
 <meta name="twitter:title" content="Installation"/>
-<meta name="twitter:description" content="This is meta description"/>
+<meta name="twitter:description" content="Welcome to Brock Library Digital Learning."/>
 
 
 
 <meta property="og:title" content="Installation" />
-<meta property="og:description" content="This is meta description" />
+<meta property="og:description" content="Welcome to Brock Library Digital Learning." />
 <meta property="og:type" content="website" />
 <meta property="og:url" content="https://brocktnl.github.io/fr/peer-review/export/" />
 
 
 <meta name="twitter:card" content="summary"/>
 <meta name="twitter:title" content="Installation"/>
-<meta name="twitter:description" content="This is meta description"/>
+<meta name="twitter:description" content="Welcome to Brock Library Digital Learning."/>
 
 
 </head>
@@ -104,7 +117,9 @@ if (!doNotTrack) {
       
       
       
-      Brock Library Digital Learning
+      
+      <img class="img-fluid" src="https://brocktnl.github.io/images/brock-logo-black.svg" alt="Brock Library Digital Learning">
+      
       
     </a>
     <button class="navbar-toggler border-0" type="button" data-toggle="collapse" data-target="#navigation"
@@ -390,7 +405,7 @@ if (!doNotTrack) {
           <div class="content"><p>The following steps are here to help you initialize your new website. If you don&rsquo;t know Hugo at all, we strongly suggest you learn more about it by following this <a href="https://gohugo.io/overview/quickstart/">great documentation for beginners</a>.</p>
 <h3 id="create-your-project">Create your project</h3>
 <p>Hugo provides a <code>new</code> command to create a new website.</p>
-<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-bash" data-lang="bash">hugo new site &lt;new_project&gt;
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-bash" data-lang="bash">hugo new site &lt;new_project&gt;
 </code></pre></div><h3 id="install-the-theme">Install the theme</h3>
 <p>Install the <strong>Dot</strong> theme by following <a href="https://gohugo.io/themes/installing/">this documentation</a></p>
 <p>This theme&rsquo;s repository is: <a href="https://github.com/themefisher/dot-hugo-documentation-theme.git">https://github.com/themefisher/dot-hugo-documentation-theme.git</a></p>
@@ -403,20 +418,20 @@ if (!doNotTrack) {
 </p>
 <h3 id="basic-configuration">Basic configuration</h3>
 <p>When building the website, you can set a theme by using <code>--theme</code> option. However, we suggest you modify the configuration file (<code>config.toml</code>) and set the theme as the default.</p>
-<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-toml" data-lang="toml"><span style="color:#75715e"># Change the default theme to be use when building the site with Hugo</span>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-toml" data-lang="toml"><span style="color:#75715e"># Change the default theme to be use when building the site with Hugo</span>
 <span style="color:#a6e22e">theme</span> = <span style="color:#e6db74">&#34;Dot&#34;</span>
 </code></pre></div><h3 id="create-your-first-content-pages">Create your first content pages</h3>
 <p>Then, create content pages inside the previously created chapter. Here are two ways to create content in the chapter:</p>
-<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-bash" data-lang="bash">hugo new installation/first-content.md
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-bash" data-lang="bash">hugo new installation/first-content.md
 hugo new installation/second-content/_index.md
 </code></pre></div><p>Feel free to edit thoses files by adding some sample content and replacing the <code>title</code> value in the beginning of the files.</p>
 <h3 id="launching-the-website-locally">Launching the website locally</h3>
 <p>Launch by using the following command:</p>
-<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-bash" data-lang="bash">hugo serve
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-bash" data-lang="bash">hugo serve
 </code></pre></div><p>Go to <code>http://localhost:1313</code></p>
 <h3 id="build-the-website">Build the website</h3>
 <p>When your site is ready to deploy, run the following command:</p>
-<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-bash" data-lang="bash">hugo
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-bash" data-lang="bash">hugo
 </code></pre></div><p>A <code>public</code> folder will be generated, containing all static content and assets for your website. It can now be deployed on any web server.</p>
 
 
@@ -1807,6 +1822,7 @@ hugo new installation/second-content/_index.md
        <div class="row text-center">
       <div class="col-md-2 text-md-left text-center" style="width: 100%;">
        <p class="mb-md-0 mb-4 text">Copyright © 2020 un thème Hugo par <a href="https://gethugothemes.com/">Gethugothemes</a></p>
+       <a href="https://www.freepik.com/">Graphics from www.freepik.com</a>
       </div>
       <div class="col-md-4 text-center" style="width: 100%;">
        <p class="mb-md-0 mb-3 text-center"><ul>
@@ -1827,7 +1843,7 @@ hugo new installation/second-content/_index.md
           
           <li class="list-inline-item"><a class="text-color d-inline-block p-2" href="#" aria-label="Twitter"><i class="ti-twitter-alt"></i></a></li>
           
-          <li class="list-inline-item"><a class="text-color d-inline-block p-2" href="#" aria-label="Github"><i class="ti-github"></i></a></li>
+          <li class="list-inline-item"><a class="text-color d-inline-block p-2" href="https://github.com/brockTnL/brocktnl.github.io" aria-label="Github"><i class="ti-github"></i></a></li>
           
         </ul>
       </div>
