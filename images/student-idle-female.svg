@@ -7,9 +7,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="24.482019mm"
-   height="67.652725mm"
-   viewBox="0 0 24.482019 67.652725"
+   width="33.542328mm"
+   height="69.623711mm"
+   viewBox="0 0 33.542327 69.62371"
    version="1.1"
    id="svg1995"
    inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
@@ -23,11 +23,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.979899"
-     inkscape:cx="21.199489"
-     inkscape:cy="97.499583"
+     inkscape:zoom="1.4"
+     inkscape:cx="-19.398209"
+     inkscape:cy="94.328536"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="layer4"
      inkscape:document-rotation="0"
      showgrid="false"
      fit-margin-top="0"
@@ -36,11 +36,11 @@
      fit-margin-bottom="0"
      inkscape:pagecheckerboard="true"
      showborder="false"
-     inkscape:window-width="1346"
-     inkscape:window-height="1080"
-     inkscape:window-x="78"
-     inkscape:window-y="97"
-     inkscape:window-maximized="0" />
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="89"
+     inkscape:window-maximized="1" />
   <metadata
      id="metadata1992">
     <rdf:RDF>
@@ -54,10 +54,36 @@
     </rdf:RDF>
   </metadata>
   <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="Layer 2"
+     transform="translate(3.7417746)">
+    <ellipse
+       style="fill:#ff7f2a;fill-rule:evenodd;stroke-width:0.264583"
+       id="path2681"
+       cx="13.029389"
+       cy="67.351921"
+       rx="16.771164"
+       ry="2.271791" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="Layer 3"
+     transform="translate(3.7417746)">
+    <ellipse
+       style="fill:#ff6600;fill-rule:evenodd;stroke-width:0.291812"
+       id="path2684"
+       cx="9.9520435"
+       cy="66.935196"
+       rx="13.057257"
+       ry="1.1005199" />
+  </g>
+  <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-346.83637,21.731126)">
+     transform="translate(-343.0946,21.731126)">
     <path
        d="m 361.51722,12.873731 c 0.0593,-0.03104 -0.31397,28.080054 -0.31397,28.080054 h 2.34491 l 2.35056,-29.449186 -4.3815,1.369132"
        style="fill:#ed808d;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.0352777"

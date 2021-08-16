@@ -7,9 +7,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="33.514965mm"
-   height="69.673019mm"
-   viewBox="0 0 33.514965 69.673019"
+   width="37.514133mm"
+   height="71.248512mm"
+   viewBox="0 0 37.514133 71.248512"
    version="1.1"
    id="svg2422"
    inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
@@ -23,11 +23,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.35"
-     inkscape:cx="-353.8075"
-     inkscape:cy="563.09412"
+     inkscape:zoom="1.979899"
+     inkscape:cx="194.55778"
+     inkscape:cy="152.11256"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="layer3"
      inkscape:document-rotation="0"
      showgrid="false"
      fit-margin-top="0"
@@ -36,11 +36,11 @@
      fit-margin-bottom="0"
      inkscape:pagecheckerboard="true"
      showborder="false"
-     inkscape:window-width="1346"
-     inkscape:window-height="1080"
-     inkscape:window-x="182"
-     inkscape:window-y="97"
-     inkscape:window-maximized="0" />
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="89"
+     inkscape:window-maximized="1" />
   <metadata
      id="metadata2419">
     <rdf:RDF>
@@ -53,6 +53,30 @@
       </cc:Work>
     </rdf:RDF>
   </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Layer 2">
+    <ellipse
+       style="fill:#ac9393;fill-rule:evenodd;stroke-width:0.264583"
+       id="path56"
+       cx="22.158854"
+       cy="69.216888"
+       rx="15.355282"
+       ry="2.0316219" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="Layer 3">
+    <ellipse
+       style="fill:#916f6f;fill-rule:evenodd;stroke-width:0.264583"
+       id="path59"
+       cx="22.903833"
+       cy="69.807274"
+       rx="8.2682295"
+       ry="1.1811756" />
+  </g>
   <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"

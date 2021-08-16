@@ -7,9 +7,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="30.608662mm"
-   height="70.165047mm"
-   viewBox="0 0 30.608662 70.165047"
+   width="37.703125mm"
+   height="70.870537mm"
+   viewBox="0 0 37.703125 70.870537"
    version="1.1"
    id="svg1826"
    sodipodi:docname="student-phone-male.svg"
@@ -23,11 +23,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.9899495"
-     inkscape:cx="88.141489"
-     inkscape:cy="211.53302"
+     inkscape:zoom="1.4"
+     inkscape:cx="245.30977"
+     inkscape:cy="37.156893"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="layer6"
      inkscape:document-rotation="0"
      showgrid="false"
      inkscape:pagecheckerboard="true"
@@ -53,6 +53,30 @@
       </cc:Work>
     </rdf:RDF>
   </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer5"
+     inkscape:label="Layer 2">
+    <ellipse
+       style="fill:#2ad4ff;fill-rule:evenodd;stroke-width:0.264583"
+       id="path2687"
+       cx="19.22954"
+       cy="69.878349"
+       rx="18.473585"
+       ry="0.9921875" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer6"
+     inkscape:label="Layer 3">
+    <ellipse
+       style="fill:#006680;fill-rule:evenodd;stroke-width:0.304698"
+       id="path2690"
+       cx="23.412802"
+       cy="69.724243"
+       rx="12.18783"
+       ry="0.76831472" />
+  </g>
   <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"

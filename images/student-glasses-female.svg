@@ -7,9 +7,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="21.245581mm"
-   height="68.115349mm"
-   viewBox="0 0 21.245581 68.115349"
+   width="25.324406mm"
+   height="69.358635mm"
+   viewBox="0 0 25.324406 69.358635"
    version="1.1"
    id="svg2238"
    inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
@@ -39,10 +39,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="2.8"
-     inkscape:cx="83.39312"
-     inkscape:cy="128.02273"
+     inkscape:cx="87.730656"
+     inkscape:cy="129.1342"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="layer8"
      inkscape:document-rotation="0"
      showgrid="false"
      inkscape:pagecheckerboard="true"
@@ -51,11 +51,11 @@
      fit-margin-left="0"
      fit-margin-right="0"
      fit-margin-bottom="0"
-     inkscape:window-width="1346"
-     inkscape:window-height="1080"
-     inkscape:window-x="130"
-     inkscape:window-y="97"
-     inkscape:window-maximized="0" />
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="89"
+     inkscape:window-maximized="1" />
   <metadata
      id="metadata2235">
     <rdf:RDF>
@@ -69,10 +69,36 @@
     </rdf:RDF>
   </metadata>
   <g
+     inkscape:groupmode="layer"
+     id="layer7"
+     inkscape:label="Layer 2"
+     transform="translate(1.2284231)">
+    <ellipse
+       style="fill:#ffdd55;fill-rule:evenodd;stroke-width:0.264583"
+       id="path2693"
+       cx="11.43378"
+       cy="68.082962"
+       rx="12.662203"
+       ry="1.2756697" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer8"
+     inkscape:label="Layer 3"
+     transform="translate(1.2284231)">
+    <ellipse
+       style="fill:#ffcc00;fill-rule:evenodd;stroke-width:0.264583"
+       id="path2699"
+       cx="11.965308"
+       cy="68.047523"
+       rx="9.5320873"
+       ry="0.57877606" />
+  </g>
+  <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-266.05578,-66.483994)">
+     transform="translate(-264.82736,-66.483994)">
     <path
        d="m 274.07552,69.885075 6.66185,1.509889 c 0,0 2.4758,3.510139 1.19521,8.529814 h -11.04406 c 0,0 -0.90135,-2.021064 1.09432,-4.818945 1.22625,-1.719086 2.09268,-5.220758 2.09268,-5.220758"
        style="fill:#f2d389;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.0352777"
