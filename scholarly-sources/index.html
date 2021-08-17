@@ -40,10 +40,13 @@
 <!-- ** JS Plugins Needed for the Project ** -->
 
 <!-- jquiry -->
-<script src="https://brocktnl.github.io/plugins/jquery/jquery-1.12.4.js"></script>
+<script>
+  window.jQuery || document.write('<script src="/js/jquery.min.js"><script>')
+  </script>
 
 <!-- jquary ui -->
-<script src="https://brocktnl.github.io/plugins/jquery/jquery-ui.js"></script>
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+
 
 <!-- Bootstrap JS -->
 <script src="https://brocktnl.github.io/plugins/bootstrap/bootstrap.min.js"></script>
@@ -1862,6 +1865,7 @@ Click on the button to the right below when you're ready to begin.
     
     <script src="/js/lunr.min.js/lunr.js"></script>
     <script src="/js/search.js"></script>
+
   <div class="section" style="padding-left: 80px; padding-right: 80px; padding-bottom: 0; padding-top:80px; background: black; margin-top: 80px;">
        <div class="row text-center">
       <div class="col-md-2 text-md-left text-center" style="width: 100%;">
@@ -1908,6 +1912,7 @@ Click on the button to the right below when you're ready to begin.
 <!-- Main Script -->
 
 <script src="https://brocktnl.github.io/js/script.min.js"></script>
+<script src="/js/filter.js"></script>
 
 
   </body>

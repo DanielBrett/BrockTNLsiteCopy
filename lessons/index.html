@@ -40,10 +40,13 @@
 <!-- ** JS Plugins Needed for the Project ** -->
 
 <!-- jquiry -->
-<script src="https://brocktnl.github.io/plugins/jquery/jquery-1.12.4.js"></script>
+<script>
+  window.jQuery || document.write('<script src="/js/jquery.min.js"><script>')
+  </script>
 
 <!-- jquary ui -->
-<script src="https://brocktnl.github.io/plugins/jquery/jquery-ui.js"></script>
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+
 
 <!-- Bootstrap JS -->
 <script src="https://brocktnl.github.io/plugins/bootstrap/bootstrap.min.js"></script>
@@ -184,18 +187,74 @@ if (!doNotTrack) {
     <!-- /header -->
     
     
+<style>
+  .filters {
+margin: 0 0 1em;
+padding: 0;
+}
 
+.filters__item {
+  display: inline-block;
+}
+
+  .filters__btn {
+    background: gray;
+    color: white;
+    display: inline-block;
+    padding: 1em;
+  }
+
+.gallery {
+margin: 0;
+padding: 0;
+}
+
+.gallery__item {
+  background: black;
+  display: inline-block;
+  height: 100px;
+  width: 100px;
+}
+
+
+
+.gallery__item[data-color="red"] {
+  background: red;
+}
+
+.gallery__item[data-color="orange"] {
+  background: orange;
+}
+
+.gallery__item[data-color="yellow"] {
+  background: yellow;
+}
+
+.gallery__item[data-color="green"] {
+  background: green;
+}
+
+.is-hidden {
+display: none;
+}
+</style>
   <section class="section">
     <div class="container">
       <div class="row justify-content-center">
         <div class="col-12 text-center">
           <h2 class="section-title">All Lessons</h2>
+          <ul class="filters">
+            <li class="filters__item"><a href="#"class="filters__btn  js-filter" data-attribute="all">All</a></li>
+            <li class="filters__item"><a href="#" class="filters__btn  js-filter" data-attribute="Video">Video</a></li>
+            <li class="filters__item"><a href="#" class="filters__btn  js-filter" data-attribute="Lesson">Lessons</a></li>
+            <li class="filters__item"><a href="#" class="filters__btn  js-filter" data-attribute="Text">Text</a></li>
+          </ul>
         </div>
         <!-- topic-item -->
             
         
-<div class="col-lg-4 col-sm-6 mb-4">
-          <a href="https://brocktnl.github.io/annotated-biliographies/" class="px-4 py-5 bg-white shadow text-center d-block match-height">
+<div class="col-lg-4 col-sm-6 mb-4 js-filterable" data-attribute="">
+           <a href="https://brocktnl.github.io/annotated-biliographies/" class="px-4 py-5 bg-white shadow text-center d-block match-height"> 
             <i class="ti-comments icon text-primary d-block mb-4"></i>
             <h3 class="mb-3 mt-0">Annotated Bibliographies</h3>
             
@@ -210,8 +269,8 @@ if (!doNotTrack) {
         </div>
         
         
-<div class="col-lg-4 col-sm-6 mb-4">
-          <a href="https://brocktnl.github.io/primary-secondary/" class="px-4 py-5 bg-white shadow text-center d-block match-height">
+<div class="col-lg-4 col-sm-6 mb-4 js-filterable" data-attribute="Lesson">
+           <a href="https://brocktnl.github.io/primary-secondary/" class="px-4 py-5 bg-white shadow text-center d-block match-height"> 
             <i class="ti-direction-alt icon text-primary d-block mb-4"></i>
             <h3 class="mb-3 mt-0">Primary and Secondary Sources</h3>
             
@@ -226,8 +285,8 @@ if (!doNotTrack) {
         </div>
         
         
-<div class="col-lg-4 col-sm-6 mb-4">
-          <a href="https://brocktnl.github.io/library-reseach-fundamentals/" class="px-4 py-5 bg-white shadow text-center d-block match-height">
+<div class="col-lg-4 col-sm-6 mb-4 js-filterable" data-attribute="">
+           <a href="https://brocktnl.github.io/library-reseach-fundamentals/" class="px-4 py-5 bg-white shadow text-center d-block match-height"> 
             <i class="ti-cup icon text-primary d-block mb-4"></i>
             <h3 class="mb-3 mt-0">Library Research Fundamentals</h3>
             
@@ -242,8 +301,8 @@ if (!doNotTrack) {
         </div>
         
         
-<div class="col-lg-4 col-sm-6 mb-4">
-          <a href="https://brocktnl.github.io/search-terms/" class="px-4 py-5 bg-white shadow text-center d-block match-height">
+<div class="col-lg-4 col-sm-6 mb-4 js-filterable" data-attribute="Video">
+           <a href="https://brocktnl.github.io/search-terms/" class="px-4 py-5 bg-white shadow text-center d-block match-height"> 
             <i class="ti-align-left icon text-primary d-block mb-4"></i>
             <h3 class="mb-3 mt-0">Creating a Search Strategy</h3>
             
@@ -258,8 +317,8 @@ if (!doNotTrack) {
         </div>
         
         
-<div class="col-lg-4 col-sm-6 mb-4">
-          <a href="https://brocktnl.github.io/evaluating-sources/" class="px-4 py-5 bg-white shadow text-center d-block match-height">
+<div class="col-lg-4 col-sm-6 mb-4 js-filterable" data-attribute="">
+           <a href="https://brocktnl.github.io/evaluating-sources/" class="px-4 py-5 bg-white shadow text-center d-block match-height"> 
             <i class="ti-panel icon text-primary d-block mb-4"></i>
             <h3 class="mb-3 mt-0">Evaluating Sources</h3>
             
@@ -274,8 +333,8 @@ if (!doNotTrack) {
         </div>
         
         
-<div class="col-lg-4 col-sm-6 mb-4">
-          <a href="https://brocktnl.github.io/peer-review/" class="px-4 py-5 bg-white shadow text-center d-block match-height">
+<div class="col-lg-4 col-sm-6 mb-4 js-filterable" data-attribute="Text">
+           <a href="https://brocktnl.github.io/peer-review/" class="px-4 py-5 bg-white shadow text-center d-block match-height"> 
             <i class="ti-user icon text-primary d-block mb-4"></i>
             <h3 class="mb-3 mt-0">Peer Review</h3>
             
@@ -290,8 +349,8 @@ if (!doNotTrack) {
         </div>
         
         
-<div class="col-lg-4 col-sm-6 mb-4">
-          <a href="https://brocktnl.github.io/scholarly-sources/" class="px-4 py-5 bg-white shadow text-center d-block match-height">
+<div class="col-lg-4 col-sm-6 mb-4 js-filterable" data-attribute="">
+           <a href="https://brocktnl.github.io/scholarly-sources/" class="px-4 py-5 bg-white shadow text-center d-block match-height"> 
             <i class="ti-panel icon text-primary d-block mb-4"></i>
             <h3 class="mb-3 mt-0">What are scholarly sources?</h3>
             
@@ -306,8 +365,8 @@ if (!doNotTrack) {
         </div>
         
         
-<div class="col-lg-4 col-sm-6 mb-4">
-          <a href="https://brocktnl.github.io/citation-chasing/" class="px-4 py-5 bg-white shadow text-center d-block match-height">
+<div class="col-lg-4 col-sm-6 mb-4 js-filterable" data-attribute="">
+           <a href="https://brocktnl.github.io/citation-chasing/" class="px-4 py-5 bg-white shadow text-center d-block match-height"> 
             <i class="ti-back-right icon text-primary d-block mb-4"></i>
             <h3 class="mb-3 mt-0">Citation Chasing</h3>
             
@@ -321,8 +380,8 @@ if (!doNotTrack) {
         </div>
         
         
-<div class="col-lg-4 col-sm-6 mb-4">
-          <a href="https://brocktnl.github.io/omni/" class="px-4 py-5 bg-white shadow text-center d-block match-height">
+<div class="col-lg-4 col-sm-6 mb-4 js-filterable" data-attribute="">
+           <a href="https://brocktnl.github.io/omni/" class="px-4 py-5 bg-white shadow text-center d-block match-height"> 
             <i class="ti-search icon text-primary d-block mb-4"></i>
             <h3 class="mb-3 mt-0">Omni</h3>
             
@@ -336,8 +395,8 @@ if (!doNotTrack) {
         </div>
         
         
-<div class="col-lg-4 col-sm-6 mb-4">
-          <a href="https://brocktnl.github.io/what-are-databases/" class="px-4 py-5 bg-white shadow text-center d-block match-height">
+<div class="col-lg-4 col-sm-6 mb-4 js-filterable" data-attribute="Video">
+           <a href="https://brocktnl.github.io/what-are-databases/" class="px-4 py-5 bg-white shadow text-center d-block match-height"> 
             <i class="ti-harddrives icon text-primary d-block mb-4"></i>
             <h3 class="mb-3 mt-0">What are Databases?</h3>
             
@@ -914,6 +973,7 @@ if (!doNotTrack) {
     
     <script src="/js/lunr.min.js/lunr.js"></script>
     <script src="/js/search.js"></script>
+
   <div class="section" style="padding-left: 80px; padding-right: 80px; padding-bottom: 0; padding-top:80px; background: black; margin-top: 80px;">
        <div class="row text-center">
       <div class="col-md-2 text-md-left text-center" style="width: 100%;">
@@ -960,6 +1020,7 @@ if (!doNotTrack) {
 <!-- Main Script -->
 
 <script src="https://brocktnl.github.io/js/script.min.js"></script>
+<script src="/js/filter.js"></script>
 
 
   </body>
