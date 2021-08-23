@@ -110,7 +110,7 @@ if (!doNotTrack) {
 </head>
 
   
-  <body>
+  <body data-chardin-sequenced="true" data-chardin-auto="true" data-chardin-delay="7000">
     
     <!-- header -->
     <header class="shadow-bottom sticky-top bg-white">
@@ -201,10 +201,12 @@ if (!doNotTrack) {
     
 
 <!-- details page -->
+<link href="/js/css/chardinjs.css" rel="stylesheet">
+<script src="/js/chardinjs.min.js"></script>
 <section class="single section-sm pb-0">
   <div class="container">
     <div class="row">
-      <div class="col-lg-3">
+      <div class="col-lg-3" data-intro="This is the main navigation." data-position="right">
         <div class="sidebar">
         <a class="back-btn" href="/" aria-label="back"></a>
           <ul class="list-styled">
@@ -395,7 +397,7 @@ if (!doNotTrack) {
           </ul>
         </div>
       </div>
-      <div class="col-lg-9">
+      <div class="col-lg-9" data-intro="Lesson content, such as text, video, and interactive activities will be displayed here." data-position="right">
         <div class="p-lg-5 p-4 bg-white">
           <h2 class="mb-5">Feedback</h2>
           
@@ -408,7 +410,7 @@ if (!doNotTrack) {
 <iframe width="100%" height= "480px" src= "https://forms.office.com/Pages/ResponsePage.aspx?id=FRGudvwe8kqlNuKyRDrxoF9eRsjmWVREro7PsHC7hkVUMlQ2TUxJOUFGTE1QMkNaTUFUNTVSSDlNSi4u&embed=true" frameborder= "0" marginwidth= "0" marginheight= "0" style= "border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe></div>
           
           <p class="post-meta border-bottom pb-3 mb-0 mt-3">Updated on 29 Jan 2021</p>
-          <nav class="pagination mt-3">
+          <nav data-intro="Proceed through a lesson or path using this button." data-position="right" class="pagination mt-3">
             
             
             
@@ -1385,7 +1387,7 @@ if (!doNotTrack) {
             
 
             
-            <a class="nav nav-prev" href="https://brocktnl.github.io/scholarly-sources/activity/" aria-label="Previous page" ><i class="ti-arrow-left mr-2"></i> <span class="d-none d-md-block">Activity</span></a>
+            <a data-intro="Go to a previous page by clicking on this button." data-position="left" class="nav nav-prev" href="https://brocktnl.github.io/scholarly-sources/activity/" aria-label="Previous page" ><i class="ti-arrow-left mr-2"></i> <span class="d-none d-md-block">Activity</span></a>
             
             
             <a class="nav nav-next" href="https://brocktnl.github.io/scholarly-sources/export/" aria-label="Previous page" > <span class="d-none d-md-block">For Instructors: Export</span><i class="ti-arrow-right ml-2"></i></a>
@@ -2067,10 +2069,16 @@ if (!doNotTrack) {
 
 <!-- Main Script -->
 
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-cookie/1.4.1/jquery.cookie.min.js"></script>
+
 <script src="https://brocktnl.github.io/js/script.min.js"></script>
 <script src="/js/filter.js"></script>
-
-
+<script>
+  if(localStorage.getItem('cookieSeen') != 'shown'){
+    $('body').chardinJs('start');
+    localStorage.setItem('cookieSeen','shown')
+  }
+  </script> 
   </body>
 
 </html>

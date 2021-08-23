@@ -110,7 +110,7 @@ if (!doNotTrack) {
 </head>
 
   
-  <body>
+  <body data-chardin-sequenced="true" data-chardin-auto="true" data-chardin-delay="7000">
     
     <!-- header -->
     <header class="shadow-bottom sticky-top bg-white">
@@ -201,10 +201,12 @@ if (!doNotTrack) {
     
 
 <!-- details page -->
+<link href="/js/css/chardinjs.css" rel="stylesheet">
+<script src="/js/chardinjs.min.js"></script>
 <section class="single section-sm pb-0">
   <div class="container">
     <div class="row">
-      <div class="col-lg-3">
+      <div class="col-lg-3" data-intro="This is the main navigation." data-position="right">
         <div class="sidebar">
         <a class="back-btn" href="/" aria-label="back"></a>
           <ul class="list-styled">
@@ -395,7 +397,7 @@ if (!doNotTrack) {
           </ul>
         </div>
       </div>
-      <div class="col-lg-9">
+      <div class="col-lg-9" data-intro="Lesson content, such as text, video, and interactive activities will be displayed here." data-position="right">
         <div class="p-lg-5 p-4 bg-white">
           <h2 class="mb-5">For Instructors: Export</h2>
           
@@ -414,7 +416,7 @@ Our lessons have been ported into a <a href="https://www.imsglobal.org/activity/
 </div>
           
           <p class="post-meta border-bottom pb-3 mb-0 mt-3">Updated on 28 Jul 2021</p>
-          <nav class="pagination mt-3">
+          <nav data-intro="Proceed through a lesson or path using this button." data-position="right" class="pagination mt-3">
             
             
             
@@ -1388,7 +1390,7 @@ Our lessons have been ported into a <a href="https://www.imsglobal.org/activity/
             
 
             
-            <a class="nav nav-prev" href="https://brocktnl.github.io/annotated-biliographies/feedback/" aria-label="Previous page" ><i class="ti-arrow-left mr-2"></i> <span class="d-none d-md-block">Feedback</span></a>
+            <a data-intro="Go to a previous page by clicking on this button." data-position="left" class="nav nav-prev" href="https://brocktnl.github.io/annotated-biliographies/feedback/" aria-label="Previous page" ><i class="ti-arrow-left mr-2"></i> <span class="d-none d-md-block">Feedback</span></a>
             
             
             <a class="nav nav-next" href="https://brocktnl.github.io/primary-secondary/" aria-label="Previous page" > <span class="d-none d-md-block">Primary and Secondary Sources</span><i class="ti-arrow-right ml-2"></i></a>
@@ -2070,10 +2072,16 @@ Our lessons have been ported into a <a href="https://www.imsglobal.org/activity/
 
 <!-- Main Script -->
 
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-cookie/1.4.1/jquery.cookie.min.js"></script>
+
 <script src="https://brocktnl.github.io/js/script.min.js"></script>
 <script src="/js/filter.js"></script>
-
-
+<script>
+  if(localStorage.getItem('cookieSeen') != 'shown'){
+    $('body').chardinJs('start');
+    localStorage.setItem('cookieSeen','shown')
+  }
+  </script> 
   </body>
 
 </html>

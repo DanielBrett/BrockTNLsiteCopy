@@ -110,7 +110,7 @@ if (!doNotTrack) {
 </head>
 
   
-  <body>
+  <body data-chardin-sequenced="true" data-chardin-auto="true" data-chardin-delay="7000">
     
     <!-- header -->
     <header class="banner overlay bg-cover" data-background="https://brocktnl.github.io/images/banner.jpg">
@@ -1195,10 +1195,16 @@ if (!doNotTrack) {
 
 <!-- Main Script -->
 
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-cookie/1.4.1/jquery.cookie.min.js"></script>
+
 <script src="https://brocktnl.github.io/js/script.min.js"></script>
 <script src="/js/filter.js"></script>
-
-
+<script>
+  if(localStorage.getItem('cookieSeen') != 'shown'){
+    $('body').chardinJs('start');
+    localStorage.setItem('cookieSeen','shown')
+  }
+  </script> 
   </body>
 
 </html>
