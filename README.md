@@ -12,6 +12,7 @@ If you want to spin this up locally or on your own repo, just copy what's inside
 Remixed the Dot theme to serve eLearning purposes. Essentially serves as a repository of lessons built in markdown. 
 
 * Lightning quick loading
+* Decent search index using lunr.js
 * No databases (phew)
 * Vanilla JS filtering in the DOM 
 * To add content, simply copy a folder in /content and change the markdown to your liking. You can spin up new lessons in seconds. 
