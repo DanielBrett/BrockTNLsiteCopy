@@ -6,7 +6,7 @@ Website for Brock Library Teaching and Learning web presence.
 ## What
 
 A proof of concept portal for Brock Library information literacy and research skills learning objects. Easily edited and remixable content. Built with Hugo, using the Dot theme. 
-If you want to spin this up locally or on your own repo, just copy what's inside the '_site' directory. 
+If you want to spin this up locally or on your own repo, just fork BrockTnL's 'b-il' repo!
 ## Features
 
 Remixed the Dot theme to serve eLearning purposes. Essentially serves as a repository of lessons built in markdown. 
