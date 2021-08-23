@@ -5,12 +5,21 @@ Website for Brock Library Teaching and Learning web presence.
 
 ## What
 
-A proof of concept portal for Brock Library information literacy and research skills learning objects. Easily edited and remixable content. Built with Hugo, using the Dot theme.
+A proof of concept portal for Brock Library information literacy and research skills learning objects. Easily edited and remixable content. Built with Hugo, using the Dot theme. 
+
+## Features
+
+Remixed the Dot theme to serve eLearning purposes. Essentially serves as a repository of lessons built in markdown. 
+
+* Lightning quick loading
+* No databases (phew)
+* Vanilla JS filtering in the DOM 
+* To add content, simply copy a folder in /content and change the markdown to your liking. You can spin up new lessons in seconds. 
 
 ## Who
 
 Updated by Brock Library eLearning Team - Ian Gordon, Justine Cotton, Cal Murgu
-Site managed by Cal Murgu
+Site built and managed by Cal Murgu
 
 ## License
 
