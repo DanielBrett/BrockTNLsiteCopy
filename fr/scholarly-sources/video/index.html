@@ -215,6 +215,7 @@ if (!doNotTrack) {
 <!-- details page -->
 <link href="/js/css/chardinjs.css" rel="stylesheet">
 <script src="/js/chardinjs.min.js"></script>
+
 <section class="single section-sm pb-0">
   <div class="container">
     <div class="row">
@@ -1407,6 +1408,10 @@ hugo new installation/second-content/_index.md
 
 
 
+<script>
+  if(localStorage.getItem('cookieSeen') != 'shown'){ 
+   $('body').chardinJs('start')}
+ </script> 
 
 
     <!-- footer -->
@@ -2058,12 +2063,9 @@ hugo new installation/second-content/_index.md
 
 <script src="https://brocktnl.github.io/js/script.min.js"></script>
 <script src="/js/filter.js"></script>
-<script>
-  if(localStorage.getItem('cookieSeen') != 'shown'){
-    $('body').chardinJs('start');
-    localStorage.setItem('cookieSeen','shown')
-  }
-  </script> 
+
+
+    
   </body>
 
 </html>

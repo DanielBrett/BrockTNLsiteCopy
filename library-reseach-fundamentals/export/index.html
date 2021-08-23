@@ -203,6 +203,7 @@ if (!doNotTrack) {
 <!-- details page -->
 <link href="/js/css/chardinjs.css" rel="stylesheet">
 <script src="/js/chardinjs.min.js"></script>
+
 <section class="single section-sm pb-0">
   <div class="container">
     <div class="row">
@@ -1474,6 +1475,10 @@ Our lessons have been ported into a <a href="https://www.imsglobal.org/activity/
 
 
 
+<script>
+  if(localStorage.getItem('cookieSeen') != 'shown'){ 
+   $('body').chardinJs('start')}
+ </script> 
 
 
     <!-- footer -->
@@ -2145,12 +2150,9 @@ Our lessons have been ported into a <a href="https://www.imsglobal.org/activity/
 
 <script src="https://brocktnl.github.io/js/script.min.js"></script>
 <script src="/js/filter.js"></script>
-<script>
-  if(localStorage.getItem('cookieSeen') != 'shown'){
-    $('body').chardinJs('start');
-    localStorage.setItem('cookieSeen','shown')
-  }
-  </script> 
+
+
+    
   </body>
 
 </html>
