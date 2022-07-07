@@ -197,6 +197,32 @@
                 href="https://brocktnl.github.io/fr/search-terms/start/"
                 />
   </url><url>
+    <loc>https://brocktnl.github.io/fr/what-are-databases/learning-objective/</loc>
+    <lastmod>2020-01-05T10:42:26+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://brocktnl.github.io/what-are-databases/learning-objective/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://brocktnl.github.io/fr/what-are-databases/learning-objective/"
+                />
+  </url><url>
+    <loc>https://brocktnl.github.io/fr/what-are-databases/start/</loc>
+    <lastmod>2020-01-05T10:42:26+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://brocktnl.github.io/what-are-databases/start/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://brocktnl.github.io/fr/what-are-databases/start/"
+                />
+  </url><url>
     <loc>https://brocktnl.github.io/fr/annotated-bibliographies/export/</loc>
     <lastmod>2020-01-05T10:42:26+06:00</lastmod>
     <xhtml:link
@@ -325,6 +351,19 @@
                 rel="alternate"
                 hreflang="fr"
                 href="https://brocktnl.github.io/fr/search-terms/export/"
+                />
+  </url><url>
+    <loc>https://brocktnl.github.io/fr/what-are-databases/export/</loc>
+    <lastmod>2020-01-05T10:42:26+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://brocktnl.github.io/what-are-databases/export/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://brocktnl.github.io/fr/what-are-databases/export/"
                 />
   </url><url>
     <loc>https://brocktnl.github.io/fr/evaluating-sources/activity/</loc>
@@ -561,6 +600,32 @@
                 href="https://brocktnl.github.io/fr/search-terms/video/"
                 />
   </url><url>
+    <loc>https://brocktnl.github.io/fr/what-are-databases/activity/</loc>
+    <lastmod>2020-01-05T10:42:26+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://brocktnl.github.io/what-are-databases/activity/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://brocktnl.github.io/fr/what-are-databases/activity/"
+                />
+  </url><url>
+    <loc>https://brocktnl.github.io/fr/what-are-databases/video/</loc>
+    <lastmod>2020-01-05T10:42:26+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://brocktnl.github.io/what-are-databases/video/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://brocktnl.github.io/fr/what-are-databases/video/"
+                />
+  </url><url>
     <loc>https://brocktnl.github.io/fr/annotated-bibliographies/feedback/</loc>
     <lastmod>2020-01-05T10:42:26+06:00</lastmod>
     <xhtml:link
@@ -663,6 +728,19 @@
                 rel="alternate"
                 hreflang="fr"
                 href="https://brocktnl.github.io/fr/search-terms/feedback/"
+                />
+  </url><url>
+    <loc>https://brocktnl.github.io/fr/what-are-databases/feedback/</loc>
+    <lastmod>2020-01-05T10:42:26+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://brocktnl.github.io/what-are-databases/feedback/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://brocktnl.github.io/fr/what-are-databases/feedback/"
                 />
   </url><url>
     <loc>https://brocktnl.github.io/fr/</loc>

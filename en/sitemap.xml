@@ -2,6 +2,32 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://brocktnl.github.io/what-are-databases/start/</loc>
+    <lastmod>2022-07-07T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://brocktnl.github.io/fr/what-are-databases/start/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://brocktnl.github.io/what-are-databases/start/"
+                />
+  </url><url>
+    <loc>https://brocktnl.github.io/what-are-databases/learning-objective/</loc>
+    <lastmod>2022-07-07T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://brocktnl.github.io/fr/what-are-databases/learning-objective/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://brocktnl.github.io/what-are-databases/learning-objective/"
+                />
+  </url><url>
     <loc>https://brocktnl.github.io/scholarly-sources/learning-objective/</loc>
     <lastmod>2021-06-24T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -210,6 +236,19 @@
                 href="https://brocktnl.github.io/omni/video/"
                 />
   </url><url>
+    <loc>https://brocktnl.github.io/what-are-databases/video/</loc>
+    <lastmod>2022-07-07T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://brocktnl.github.io/fr/what-are-databases/video/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://brocktnl.github.io/what-are-databases/video/"
+                />
+  </url><url>
     <loc>https://brocktnl.github.io/library-reseach-fundamentals/peerreview/</loc>
     <lastmod>2020-07-12T10:42:26+06:00</lastmod>
     <xhtml:link
@@ -286,6 +325,19 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://brocktnl.github.io/peer-review/activity/"
+                />
+  </url><url>
+    <loc>https://brocktnl.github.io/what-are-databases/activity/</loc>
+    <lastmod>2021-07-29T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://brocktnl.github.io/fr/what-are-databases/activity/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://brocktnl.github.io/what-are-databases/activity/"
                 />
   </url><url>
     <loc>https://brocktnl.github.io/library-reseach-fundamentals/searchstrategy/</loc>
@@ -561,6 +613,19 @@
                 href="https://brocktnl.github.io/search-terms/feedback/"
                 />
   </url><url>
+    <loc>https://brocktnl.github.io/what-are-databases/feedback/</loc>
+    <lastmod>2021-07-29T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://brocktnl.github.io/fr/what-are-databases/feedback/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://brocktnl.github.io/what-are-databases/feedback/"
+                />
+  </url><url>
     <loc>https://brocktnl.github.io/annotated-bibliographies/export/</loc>
     <lastmod>2021-07-28T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -665,17 +730,17 @@
                 href="https://brocktnl.github.io/search-terms/export/"
                 />
   </url><url>
-    <loc>https://brocktnl.github.io/annotated-bibliographies/</loc>
-    <lastmod>2021-08-17T00:00:00+00:00</lastmod>
+    <loc>https://brocktnl.github.io/what-are-databases/export/</loc>
+    <lastmod>2021-05-29T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://brocktnl.github.io/fr/annotated-bibliographies/"
+                href="https://brocktnl.github.io/fr/what-are-databases/export/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://brocktnl.github.io/annotated-bibliographies/"
+                href="https://brocktnl.github.io/what-are-databases/export/"
                 />
   </url><url>
     <loc>https://brocktnl.github.io/</loc>
@@ -689,6 +754,32 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://brocktnl.github.io/"
+                />
+  </url><url>
+    <loc>https://brocktnl.github.io/what-are-databases/</loc>
+    <lastmod>2022-07-07T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://brocktnl.github.io/fr/what-are-databases/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://brocktnl.github.io/what-are-databases/"
+                />
+  </url><url>
+    <loc>https://brocktnl.github.io/annotated-bibliographies/</loc>
+    <lastmod>2021-08-17T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://brocktnl.github.io/fr/annotated-bibliographies/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://brocktnl.github.io/annotated-bibliographies/"
                 />
   </url><url>
     <loc>https://brocktnl.github.io/primary-secondary/</loc>
@@ -799,19 +890,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://brocktnl.github.io/omni/"
-                />
-  </url><url>
-    <loc>https://brocktnl.github.io/what-are-databases/</loc>
-    <lastmod>2018-12-28T11:02:05+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://brocktnl.github.io/fr/what-are-databases/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://brocktnl.github.io/what-are-databases/"
                 />
   </url><url>
     <loc>https://brocktnl.github.io/faq/</loc>
